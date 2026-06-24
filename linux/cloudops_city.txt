@@ -1,0 +1,79 @@
+=== CLOUDOPS CITY: SERVER LOGBOOK ===
+
+SECTION 1: THE CREW
+Lead Engineer: Adebola Shopeju
+Junior DevOps: Tunde Bakare
+Cloud Architect: Amaka Osei
+Security Ninja: Chidi Nwosu
+Python Wizard: Fatima Aliyu
+
+SECTION 2: SERVER INVENTORY
+Server Name: web-server-01
+IP Address: 192.168.1.10
+OS: Ubuntu 22.04
+Status: RUNNING
+CPU Usage: 45%
+Memory Usage: 2.1GB / 8GB
+
+Server Name: db-server-01
+IP Address: 192.168.1.20
+OS: Amazon Linux 2
+Status: RUNNING
+CPU Usage: 78%
+Memory Usage: 6.5GB / 8GB
+
+Server Name: backup-server-01
+IP Address: 192.168.1.30
+OS: Ubuntu 22.04
+Status: STOPPED
+CPU Usage: 0%
+Memory Usage: 0GB / 4GB
+
+Server Name: web-server-02
+IP Address: 192.168.1.40
+OS: Ubuntu 22.04
+Status: RUNNING
+CPU Usage: 23%
+Memory Usage: 1.2GB / 8GB
+
+SECTION 3: ERROR LOGS
+[2024-06-10 08:12:01] ERROR: web-server-01 - disk usage above 90%
+[2024-06-10 08:15:44] WARNING: db-server-01 - high memory usage detected
+[2024-06-10 09:01:22] ERROR: backup-server-01 - connection timeout
+[2024-06-10 09:45:10] INFO: web-server-02 - health check passed
+[2024-06-10 10:02:55] ERROR: web-server-01 - failed to write to /var/log
+[2024-06-10 10:30:00] INFO: db-server-01 - backup completed successfully
+[2024-06-10 11:00:01] WARNING: web-server-02 - CPU spike detected
+[2024-06-10 11:45:33] ERROR: db-server-01 - replication lag detected
+[2024-06-10 12:00:00] INFO: All servers - scheduled maintenance window
+[2024-06-10 12:30:15] ERROR: backup-server-01 - disk full
+
+SECTION 4: INSTALLED PACKAGES
+python3 version 3.11.2 - installed by Adebola
+nginx version 1.24.0 - installed by Tunde
+postgresql version 15.2 - installed by Amaka
+docker version 24.0.1 - installed by Adebola
+git version 2.40.0 - installed by Fatima
+aws-cli version 2.13.0 - installed by Adebola
+vim version 9.0 - installed by Chidi
+htop version 3.2.1 - installed by Tunde
+
+SECTION 5: PASSWORD POLICY
+All passwords must be at least 12 characters
+Never store plain text password in scripts
+Use environment variables for password storage
+Last password audit: 2024-06-01
+Next password audit: 2024-09-01
+
+SECTION 6: AWS REGIONS IN USE
+us-east-1 - Primary region - web servers
+eu-west-1 - Secondary region - backup
+af-south-1 - Africa region - Nigerian users
+ap-southeast-1 - Asia region - future expansion
+
+SECTION 7: PYTHON SCRIPTS RUNNING
+script: backup_s3.py - status: RUNNING - owner: Adebola
+script: monitor_cpu.py - status: RUNNING - owner: Fatima
+script: cleanup_logs.py - status: STOPPED - owner: Tunde
+script: health_check.py - status: RUNNING - owner: Adebola
+script: send_alerts.py - status: ERROR - owner: Chidi
