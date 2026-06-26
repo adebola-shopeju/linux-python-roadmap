@@ -1,0 +1,654 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+adebolashopeju    1111   9.5  4.8 1949560464 808608   ??  S     9:15a.m.  14:28.08 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=79808196 --shared-files --metrics-shmem-handle=1752395122,r,7082036117061508177,2104103718639364846,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709003178624776 --seatbelt-client=184
+root               518   6.1  0.2 435615904  26576   ??  Ss    9:14a.m.   0:26.34 /usr/libexec/TouchBarServer
+_windowserver      418   4.1  1.0 436264608 169664   ??  Ss    9:14a.m.  12:43.92 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+adebolashopeju    9497   3.3  1.0 435904624 168128   ??  S     9:44a.m.   0:33.17 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+adebolashopeju    9421   2.4  1.7 1949310176 278624   ??  S     9:27a.m.   0:28.86 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=36 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=804534423 --shared-files --metrics-shmem-handle=1752395122,r,1663853735924202081,16495262191102603248,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709020045378058 --seatbelt-client=160
+adebolashopeju    1080   1.4  1.1 486459408 192160   ??  S     9:14a.m.   4:17.44 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=gpu-process --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --gpu-preferences=SAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAAwAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --metrics-shmem-handle=1752395122,r,1792051126880424401,9022182079867962208,262144 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190708988185955192 --seatbelt-client=30
+root               425   1.3  0.1 435356336  24224   ??  Ss    9:14a.m.   1:01.29 /usr/libexec/runningboardd
+_driverkit         552   1.1  0.2 435293136  40352   ??  Ss    9:14a.m.   1:59.24 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000b3a com.apple.DriverKit-AppleBCMWLAN
+adebolashopeju     641   0.7  1.4 435778496 230576   ??  U     9:14a.m.   0:48.51 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+root               410   0.6  0.3 435399504  52640   ??  Ss    9:14a.m.   0:34.74 /usr/sbin/bluetoothd
+adebolashopeju     824   0.5  0.5 412014192  84768   ??  S     9:14a.m.   0:13.10 /Applications/Shazam.app/Contents/MacOS/Shazam
+adebolashopeju     811   0.4  2.0 441279872 327600   ??  S     9:14a.m.   0:56.15 /Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
+root               536   0.2  0.0 435311360   3952   ??  Ss    9:14a.m.   0:09.58 /usr/libexec/audioclocksyncd
+root               569   0.2  0.1 435355296  14864   ??  Ss    9:14a.m.   0:09.47 /usr/libexec/gamepolicyd
+adebolashopeju     637   0.2  0.7 435676432 117680   ??  S     9:14a.m.   0:43.78 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+adebolashopeju     724   0.1  0.5 435776096  86416   ??  S     9:14a.m.   0:17.61 /usr/libexec/sharingd
+root               345   0.1  0.3 435471312  51360   ??  Ss    9:14a.m.   0:26.29 /usr/libexec/logd
+adebolashopeju     643   0.1  0.2 435432992  30208   ??  S     9:14a.m.   0:07.57 /usr/libexec/rapportd
+root               455   0.1  0.3 435378960  44016   ??  Ss    9:14a.m.   3:24.76 /usr/libexec/airportd
+root               377   0.1  0.0 435339808   6032   ??  Rs    9:14a.m.   0:02.91 /usr/libexec/diskarbitrationd
+adebolashopeju    9627   0.0  0.4 435657984  58944   ??  Ss   10:01a.m.   0:00.91 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+adebolashopeju    9568   0.0  0.1 435354480  16192   ??  S     9:46a.m.   0:01.08 /usr/libexec/proactived
+adebolashopeju    9567   0.0  0.1 435347712  16976   ??  S     9:46a.m.   0:00.29 /System/Library/PrivateFrameworks/People.framework/peopled
+adebolashopeju    9556   0.0  0.2 435422416  34784   ??  S     9:46a.m.   0:00.83 /usr/libexec/studentd
+adebolashopeju    9555   0.0  0.1 435316320  21968   ??  Ss    9:46a.m.   0:00.26 /System/Library/ExtensionKit/Extensions/ClassroomSettings.appex/Contents/MacOS/ClassroomSettings -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5DbGFzc3Jvb20tU2V0dGluZ3MuZXh0ZW5zaW9uIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjJ9
+adebolashopeju    9554   0.0  0.2 435321680  30272   ??  Ss    9:46a.m.   0:00.47 /System/Library/ExtensionKit/Extensions/FamilySettings.appex/Contents/MacOS/FamilySettings -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5GYW1pbHktU2V0dGluZ3MuZXh0ZW5zaW9uIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjJ9
+adebolashopeju    9553   0.0  0.1 435315872  21360   ??  Ss    9:46a.m.   0:00.21 /System/Library/ExtensionKit/Extensions/FollowUpSettingsExtension.appex/Contents/MacOS/FollowUpSettingsExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Gb2xsb3dVcFNldHRpbmdzLkZvbGxvd1VwU2V0dGluZ3NFeHRlbnNpb24iLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6Mn0=
+adebolashopeju    9552   0.0  0.1 435315952  20720   ??  Ss    9:46a.m.   0:00.21 /System/Library/ExtensionKit/Extensions/VPN.appex/Contents/MacOS/VPN -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5OZXR3b3JrRXh0ZW5zaW9uU2V0dGluZ3NVSS5ORVNldHRpbmdzVUlFeHRlbnNpb24iLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6Mn0=
+adebolashopeju    9551   0.0  0.1 435315808  23072   ??  Ss    9:46a.m.   0:00.78 /System/Library/ExtensionKit/Extensions/HeadphoneSettingsExtension.appex/Contents/MacOS/HeadphoneSettingsExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5IZWFkcGhvbmVTZXR0aW5ncyIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoyfQ==
+adebolashopeju    9549   0.0  0.2 435351648  41008   ??  S     9:46a.m.   0:01.20 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+adebolashopeju    9548   0.0  0.1 435341456   9584   ??  S     9:46a.m.   0:00.11 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+adebolashopeju    9547   0.0  0.4 435534624  73584   ??  Ss    9:46a.m.   1:18.24 /System/Library/ExtensionKit/Extensions/Wi-Fi.appex/Contents/MacOS/Wi-Fi -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS53aWZpLXNldHRpbmdzLWV4dGVuc2lvbiIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoyfQ==
+adebolashopeju    9546   0.0  0.4 435532288  66112   ??  Ss    9:46a.m.   0:01.03 /System/Library/ExtensionKit/Extensions/AppleIDSettings.appex/Contents/MacOS/AppleIDSettings -LaunchArguments eyJ0eXBlIjoyLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5zeXN0ZW1wcmVmZXJlbmNlcy5BcHBsZUlEU2V0dGluZ3MiLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZX0=
+adebolashopeju    9545   0.0  0.1 435352816  12928   ??  Ss    9:46a.m.   0:00.08 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+adebolashopeju    9544   0.0  0.9 435701504 150800   ??  S     9:46a.m.   0:03.58 /System/Applications/System Settings.app/Contents/MacOS/System Settings
+adebolashopeju    9499   0.0  0.0 435308848   3472 s000  S     9:44a.m.   0:00.07 -zsh
+root              9498   0.0  0.0 435308336   8176 s000  Ss    9:44a.m.   0:00.02 login -pf adebolashopeju
+root              9479   0.0  0.1 435346144  24176   ??  Ss    9:40a.m.   0:03.16 /usr/libexec/wifivelocityd
+adebolashopeju    9471   0.0  0.0 435306208   6720   ??  S     9:37a.m.   0:00.07 /usr/libexec/keychainsharingmessagingd
+adebolashopeju    9469   0.0  0.1 435589680  19664   ??  S     9:37a.m.   0:00.44 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+adebolashopeju    9470   0.0  0.2 435406832  28608   ??  S     9:37a.m.   0:00.32 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+adebolashopeju    9462   0.0  0.1 435287984  24416   ??  Ss    9:34a.m.   0:01.42 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+adebolashopeju    9459   0.0  0.1 435369856  10816   ??  Ss    9:34a.m.   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    9438   0.0  0.1 435353760  16832   ??  S     9:30a.m.   0:00.62 /usr/libexec/tipsd
+root              9435   0.0  0.0 435301264   2784   ??  Ss    9:30a.m.   0:00.03 /usr/libexec/seputil --daemonize-reseed
+adebolashopeju    9437   0.0  0.1 435342064  13792   ??  S     9:30a.m.   0:00.20 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+adebolashopeju    9436   0.0  0.1 435351152  14800   ??  S     9:30a.m.   0:00.21 /usr/libexec/diagnosticextensionsd
+adebolashopeju    9425   0.0  0.5 486088208  80976   ??  S     9:27a.m.   0:00.87 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-GB --service-sandbox-type=none --message-loop-type-ui --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --shared-files --metrics-shmem-handle=1752395122,r,4979622318799031660,13599409506217992494,524288 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709023793545454
+adebolashopeju    9424   0.0  0.4 486068432  73872   ??  S     9:27a.m.   0:01.85 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-GB --service-sandbox-type=audio --message-loop-type-ui --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --shared-files --metrics-shmem-handle=1752395122,r,11376113253480252932,16212744553753389102,524288 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709022856503605 --seatbelt-client=167
+adebolashopeju    9422   0.0  2.7 1963510640 447712   ??  S     9:27a.m.   0:17.98 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=37 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=806311201 --shared-files --metrics-shmem-handle=1752395122,r,14852526516193936552,1088893176919584795,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709020982419907 --seatbelt-client=160
+adebolashopeju    9420   0.0  1.2 1949529248 198224   ??  S     9:27a.m.   0:03.18 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=35 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=803725177 --shared-files --metrics-shmem-handle=1752395122,r,1001643226878305248,8358919595125772442,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709019108336209 --seatbelt-client=160
+adebolashopeju    9419   0.0  2.4 1949379744 405712   ??  S     9:27a.m.   0:29.53 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=34 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=803391747 --shared-files --metrics-shmem-handle=1752395122,r,2701520504727112966,17532377111691165579,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709018171294360 --seatbelt-client=160
+adebolashopeju    9396   0.0  0.5 435654496  87952   ??  S     9:19a.m.   0:01.83 /Applications/OneDrive.app/Contents/OneDrive Sync Service.app/Contents/MacOS/OneDrive Sync Service /silentConfig
+adebolashopeju    9384   0.0  0.0 435301808   7088   ??  S     9:19a.m.   0:00.06 /usr/libexec/feedbackd
+adebolashopeju    9265   0.0  0.1 435343168  16416   ??  S     9:19a.m.   0:00.33 /usr/libexec/adprivacyd
+adebolashopeju    9260   0.0  0.1 435342240  15808   ??  S     9:19a.m.   0:00.19 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+adebolashopeju    9193   0.0  0.1 435342016  10384   ??  S     9:18a.m.   0:00.31 /System/Library/PrivateFrameworks/JetCore.framework/Support/jetpackassetd
+adebolashopeju    6988   0.0  0.1 435353680  17312   ??  Ss    9:18a.m.   0:00.03 /Applications/Microsoft PowerPoint.app/Contents/PlugIns/PowerPointWidget_mac.appex/Contents/MacOS/PowerPointWidget_mac -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5taWNyb3NvZnQuUG93ZXJwb2ludC53aWRnZXRleHRlbnNpb24iLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju    4941   0.0  0.1 435352944  16912   ??  Ss    9:17a.m.   0:00.03 /Applications/Microsoft Excel.app/Contents/PlugIns/ExcelWidget_mac.appex/Contents/MacOS/ExcelWidget_mac -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5taWNyb3NvZnQuRXhjZWwud2lkZ2V0ZXh0ZW5zaW9uIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+_rmd              4937   0.0  0.0 435306192   5088   ??  Ss    9:17a.m.   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedConfigurationFilesSubscriber.xpc/Contents/MacOS/ManagedConfigurationFilesSubscriber
+_rmd              4936   0.0  0.0 435305216   4528   ??  Ss    9:17a.m.   0:00.12 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+root              4935   0.0  0.1 435347904  20832   ??  Ss    9:17a.m.   0:01.32 /System/Library/Frameworks/ManagedAppDistribution.framework/Support/managedappdistributiond
+_rmd              4934   0.0  0.0 435305248   5456   ??  Ss    9:17a.m.   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedAppsSubscriber.xpc/Contents/MacOS/ManagedAppsSubscriber
+root              4933   0.0  0.0 435341024   5568   ??  Ss    9:17a.m.   0:00.06 /System/Library/CoreServices/iconservicesagent runAsRoot
+root              4932   0.0  0.1 435351616  13232   ??  Ss    9:17a.m.   0:00.13 /System/Library/PrivateFrameworks/SystemMigration.framework/Resources/systemmigrationd
+_rmd              4931   0.0  0.0 435306416   7088   ??  Ss    9:17a.m.   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/MigrationSubscriber.xpc/Contents/MacOS/MigrationSubscriber
+_rmd              4930   0.0  0.0 435306144   6256   ??  Ss    9:17a.m.   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SoftwareUpdateSubscriber.xpc/Contents/MacOS/SoftwareUpdateSubscriber
+_rmd              4929   0.0  0.0 435306480   5248   ??  Ss    9:17a.m.   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedPreferencesSubscriber.xpc/Contents/MacOS/ManagedPreferencesSubscriber
+_rmd              4928   0.0  0.0 435305264   4384   ??  Ss    9:17a.m.   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+_rmd              4927   0.0  0.0 435305040   4368   ??  Ss    9:17a.m.   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_rmd              4926   0.0  0.0 435305888   4624   ??  Ss    9:17a.m.   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+adebolashopeju    4924   0.0  0.1 435344672  11344   ??  Ss    9:17a.m.   0:00.15 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+_rmd              4922   0.0  0.0 435306048   7168   ??  Ss    9:17a.m.   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+_rmd              4921   0.0  0.0 435304976   4496   ??  Ss    9:17a.m.   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+_rmd              4919   0.0  0.0 435305968   4496   ??  Ss    9:17a.m.   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+_rmd              4920   0.0  0.0 435305456   2512   ??  S     9:17a.m.   0:00.31 /usr/sbin/distnoted agent
+_rmd              4918   0.0  0.1 435341648   9920   ??  Ss    9:17a.m.   0:00.19 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+adebolashopeju    4914   0.0  0.0 435301408   2672   ??  S     9:17a.m.   0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+adebolashopeju    4915   0.0  0.3 435419712  51008   ??  S     9:17a.m.   0:04.79 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+adebolashopeju    2683   0.0  0.1 435340560  12464   ??  Ss    9:16a.m.   0:00.39 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+adebolashopeju    2680   0.0  0.0 435340656   5520   ??  S     9:16a.m.   0:08.18 /usr/libexec/MTLAssetUpgraderD
+adebolashopeju    2681   0.0  0.0 435309888   6096   ??  S     9:16a.m.   0:00.28 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+adebolashopeju    2667   0.0  0.1 435340528  10624   ??  Ss    9:16a.m.   0:00.10 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+root              2666   0.0  0.1 435341792  18304   ??  Ss    9:16a.m.   0:00.09 /System/Library/CoreServices/sharedfilelistd
+adebolashopeju    2645   0.0  0.1 435374240   8768   ??  Ss    9:16a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    2629   0.0  0.1 435538720  22848   ??  Ss    9:16a.m.   0:00.40 /System/Library/Frameworks/LinkPresentation.framework/Versions/A/XPCServices/com.apple.LinkPresentation.LinkSnapshotGeneratorService.xpc/Contents/MacOS/com.apple.LinkPresentation.LinkSnapshotGeneratorService
+adebolashopeju    2575   0.0  0.1 435340672  10384   ??  Ss    9:16a.m.   0:00.23 /System/Library/Frameworks/GroupActivities.framework/Versions/A/XPCServices/GroupSessionService.xpc/Contents/MacOS/GroupSessionService
+adebolashopeju    1972   0.0  0.1 435345120  12560   ??  S     9:16a.m.   0:00.56 /usr/libexec/textunderstandingd
+adebolashopeju    1925   0.0  0.0 435341504   7872   ??  Ss    9:16a.m.   0:00.11 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+adebolashopeju    1888   0.0  1.7 440570800 283808   ??  S     9:16a.m.   3:40.75 /System/Applications/Notes.app/Contents/MacOS/Notes
+root              1249   0.0  0.0 435304640   5408   ??  S     9:16a.m.   0:00.14 /System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/XPCServices/package_script_service.xpc/Contents/MacOS/package_script_service
+adebolashopeju    1244   0.0  0.0 435340064   4576   ??  Ss    9:16a.m.   0:00.04 /System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService
+adebolashopeju    1242   0.0  0.2 435375792  30624   ??  Ss    9:16a.m.   0:00.25 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/PlugIns/ACCFinderSync.appex/Contents/MacOS/ACCFinderSync -AppleLanguages ("en-GB")
+adebolashopeju    1240   0.0  0.1 435303504  18880   ??  Ss    9:16a.m.   0:00.18 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+adebolashopeju    1238   0.0  0.7 435645744 121856   ??  Rs    9:16a.m.   0:17.82 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+adebolashopeju    1236   0.0  0.1 411755808  12464   ??  Ss    9:15a.m.   0:00.15 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+adebolashopeju    1224   0.0  0.2 435515504  25680   ??  S     9:15a.m.   0:00.37 /System/Library/PrivateFrameworks/WorkflowKit.framework/XPCServices/ShortcutsViewService.xpc/Contents/MacOS/ShortcutsViewService
+adebolashopeju    1215   0.0  0.2 435589840  41456   ??  Ss    9:15a.m.   0:00.46 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+root              1214   0.0  0.0 435304992   3296   ??  Ss    9:15a.m.   0:00.03 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+adebolashopeju    1213   0.0  0.1 435340560   9088   ??  Ss    9:15a.m.   0:01.35 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+adebolashopeju    1210   0.0  0.0 435366432   2544   ??  Ss    9:15a.m.   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+adebolashopeju    1209   0.0  0.2 435370096  28592   ??  S     9:15a.m.   0:00.28 /usr/libexec/GamePolicyAgent
+adebolashopeju    1208   0.0  0.2 435361952  36944   ??  S     9:15a.m.   0:05.20 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+adebolashopeju    1207   0.0  0.1 435340784   8720   ??  S     9:15a.m.   0:00.18 /System/Library/PrivateFrameworks/HomeKitEvents.framework/Support/homeeventsd
+adebolashopeju    1178   0.0  0.1 435305008  13008   ??  S     9:15a.m.   0:01.58 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker
+_spotlight        1173   0.0  0.1 435317056  16192   ??  S     9:15a.m.   0:15.77 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker
+_spotlight        1172   0.0  0.1 435343408  12976   ??  S     9:15a.m.   0:00.67 /usr/libexec/trustd --agent
+root              1126   0.0  0.1 435342288  10624   ??  Ss    9:15a.m.   0:00.28 /System/Library/PrivateFrameworks/Ecosystem.framework/Support/ecosystemd
+adebolashopeju    1125   0.0  0.1 435352720  14368   ??  Ss    9:15a.m.   0:00.12 /System/Applications/Messages.app/Contents/Extensions/MessagesActionExtension.appex/Contents/MacOS/MessagesActionExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Nb2JpbGVTTVMuTWVzc2FnZXNBY3Rpb25FeHRlbnNpb24iLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju    1124   0.0  0.1 435352944  12416   ??  Ss    9:15a.m.   0:00.11 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariLinkExtension.appex/Contents/MacOS/SafariLinkExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5TYWZhcmkuU2FmYXJpTGlua0V4dGVuc2lvbiIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju    1123   0.0  0.1 435353760  13792   ??  Ss    9:15a.m.   0:00.09 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5jYWxlbmRhci5DYWxlbmRhckludGVudHNFeHRlbnNpb24iLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZX0=
+adebolashopeju    1122   0.0  0.0 435340848   8000   ??  Ss    9:15a.m.   0:00.10 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+adebolashopeju    1121   0.0  0.1 435343600  11536   ??  S     9:15a.m.   0:00.86 /System/Library/PrivateFrameworks/OnDeviceStorage.framework/Support/amsondevicestoraged
+adebolashopeju    1120   0.0  0.0 435340672   8272   ??  S     9:15a.m.   0:01.54 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+adebolashopeju    1119   0.0  0.1 435352992   9488   ??  Ss    9:15a.m.   0:00.05 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor -LaunchArguments eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uYXBwbGUubGlnaHRob3VzZS5JRlRyYW5zY3JpcHRTRUxGSW5nZXN0b3IiLCJ0eXBlIjoxfQ==
+adebolashopeju    1118   0.0  0.1 435353552  10896   ??  Ss    9:15a.m.   0:00.05 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor -LaunchArguments eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uYXBwbGUubGlnaHRob3VzZS5JRlRlbGVtZXRyeVNFTEZJbmdlc3RvciIsInR5cGUiOjF9
+adebolashopeju    1117   0.0  0.1 435353584  10880   ??  Ss    9:15a.m.   0:00.05 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5zaXJpLkdNU1NFTEZJbmdlc3RvciIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+adebolashopeju    1116   0.0  0.1 435353616   9776   ??  Ss    9:15a.m.   0:00.06 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5saWdodGhvdXNlLkJpb21lU0VMRkluZ2VzdG9yIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+adebolashopeju    1115   0.0  0.0 435340640   8192   ??  Ss    9:15a.m.   0:00.21 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root              1114   0.0  0.1 435345616  15024   ??  Ss    9:15a.m.   0:00.66 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+root              1113   0.0  0.1 435345312   8640   ??  Ss    9:15a.m.   0:00.24 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+adebolashopeju    1112   0.0  0.1 435352768  15456   ??  Ss    9:15a.m.   0:00.13 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+adebolashopeju    1110   0.0  0.0 435301168   3728   ??  S     9:15a.m.   0:00.02 /System/Library/CoreServices/ReportCrash agent
+adebolashopeju    1109   0.0  0.1 435346320  12160   ??  Ss    9:15a.m.   0:00.25 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+adebolashopeju     798   0.0  0.1 435341056  10656   ??  S     9:14a.m.   0:00.44 /System/Library/CoreServices/diagnostics_agent
+adebolashopeju     827   0.0  0.0 435343504   7456   ??  S     9:14a.m.   0:00.16 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+adebolashopeju     728   0.0  0.0 435305968   5088   ??  S     9:14a.m.   0:00.05 /System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent
+root              1107   0.0  0.0 435342192   7072   ??  S     9:15a.m.   0:00.19 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root              1106   0.0  0.0 435341216   8128   ??  Ss    9:15a.m.   0:01.57 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+adebolashopeju    1104   0.0  0.0 435300992   3072   ??  Ss    9:15a.m.   0:00.01 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
+root               917   0.0  0.0 435305136   3696   ??  Ss    9:14a.m.   0:00.10 /System/Library/CoreServices/SubmitDiagInfo server-init
+adebolashopeju    1099   0.0  0.1 435353312  22320   ??  S     9:15a.m.   0:02.93 /usr/libexec/swcd
+adebolashopeju    1097   0.0  1.2 1951289232 202320   ??  S     9:15a.m.   0:19.53 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=74189978 --shared-files --metrics-shmem-handle=1752395122,r,9059387773964778430,17326726474459668229,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190708996619331833 --seatbelt-client=99
+adebolashopeju    1095   0.0  1.8 1951283200 304256   ??  S     9:15a.m.   0:13.06 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=74185068 --shared-files --metrics-shmem-handle=1752395122,r,7498236110474545253,14782663520963942611,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190708994745248135 --seatbelt-client=95
+adebolashopeju    1094   0.0  0.2 435399056  33104   ??  Ss    9:15a.m.   0:00.63 /System/Library/PrivateFrameworks/SafariPlatformSupport.framework/Versions/A/XPCServices/com.apple.SafariPlatformSupport.Helper.xpc/Contents/MacOS/com.apple.SafariPlatformSupport.Helper
+_neuralengine     1092   0.0  0.0 435340432   4544   ??  Ss    9:15a.m.   0:00.07 /usr/libexec/aneuserd
+root              1093   0.0  0.0 435305520   3456   ??  Ss    9:15a.m.   0:00.03 /usr/libexec/online-auth-agent
+adebolashopeju    1091   0.0  0.2 435432048  33840   ??  Ss    9:15a.m.   0:00.83 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+adebolashopeju    1090   0.0  0.2 435431808  39760   ??  Ss    9:15a.m.   0:03.67 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root               527   0.0  0.1 435341200  10368   ??  Ss    9:14a.m.   0:00.33 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
+root               441   0.0  0.0 435305232   2688   ??  Ss    9:14a.m.   0:00.03 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+adebolashopeju    1087   0.0  1.2 1949498848 205024   ??  S     9:15a.m.   0:01.47 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --top-chrome-webui --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=73172494 --shared-files --metrics-shmem-handle=1752395122,r,16178658205905186138,17210572452563433183,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190708991934122588 --seatbelt-client=85
+adebolashopeju    1086   0.0  0.1 435351568  12768   ??  S     9:15a.m.   0:00.24 /System/Library/PrivateFrameworks/IntelligenceFlowContextRuntime.framework/Versions/A/intelligencecontextd
+adebolashopeju    1085   0.0  0.1 435342496  14176   ??  Ss    9:15a.m.   0:06.38 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+adebolashopeju    1083   0.0  0.5 486062240  81392   ??  S     9:14a.m.   0:01.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=service --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --shared-files --metrics-shmem-handle=1752395122,r,16464004127252416132,3059098196986725949,524288 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190708990060038890 --seatbelt-client=44
+adebolashopeju    1081   0.0  0.9 486119712 145152   ??  S     9:14a.m.   0:29.82 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=network --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --shared-files --metrics-shmem-handle=1752395122,r,7923778707292411241,7795810546383790515,524288 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190708989122997041 --seatbelt-client=30
+root              1079   0.0  0.1 435448976  10160   ??  S     9:14a.m.   0:00.09 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+adebolashopeju    1077   0.0  0.1 435370448  11312   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               427   0.0  0.0 435304512   6080   ??  Ss    9:14a.m.   0:00.20 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+root              1075   0.0  0.0 435301072   3584   ??  Ss    9:14a.m.   0:02.11 /usr/libexec/sysmond
+adebolashopeju    1074   0.0  0.0 435305616   5824   ??  S     9:14a.m.   0:00.15 /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app/Contents/MacOS/IMTransferAgent
+root              1072   0.0  0.1 435341520  10240   ??  Ss    9:14a.m.   0:02.02 /usr/libexec/assetsubscriptiond
+adebolashopeju    1071   0.0  0.1 485701616   9680   ??  S     9:14a.m.   0:00.04 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/adebolashopeju/Library/Application Support/Google/Chrome/Crashpad --metrics-dir=/Users/adebolashopeju/Library/Application Support/Google/Chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=149.0.7827.156 --handshake-fd=5
+adebolashopeju    1069   0.0  0.1 435370416  11264   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1062   0.0  0.0 435340560   7712   ??  S     9:14a.m.   0:00.15 /usr/libexec/inputanalyticsd
+adebolashopeju    1068   0.0  0.1 435370688  10816   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1055   0.0  0.1 435340464   9344   ??  S     9:14a.m.   0:00.10 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsagent
+_accessoryupdater  1046   0.0  0.0 435305600   3120   ??  Ss    9:14a.m.   0:00.10 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/ThunderboltAccessoryUpdaterService.xpc/Contents/MacOS/ThunderboltAccessoryUpdaterService
+root              1054   0.0  0.0 435339440   4944   ??  S     9:14a.m.   0:00.10 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root              1052   0.0  0.1 435344048  18736   ??  S     9:14a.m.   0:00.97 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+adebolashopeju    1051   0.0  0.1 435370368   9648   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1050   0.0  0.5 507644880  79136   ??  Ss    9:14a.m.   0:01.41 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+_applepay         1049   0.0  0.0 435305776   2688   ??  S     9:14a.m.   0:00.32 /usr/sbin/distnoted agent
+_applepay         1048   0.0  0.0 435344096   4864   ??  Ss    9:14a.m.   0:00.03 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
+_applepay         1047   0.0  0.1 435342496   8864   ??  Ss    9:14a.m.   0:00.25 /usr/libexec/nfcd
+adebolashopeju    1010   0.0  0.1 435345424  11776   ??  S     9:14a.m.   0:00.48 /System/Library/Frameworks/FinanceKit.framework/financed
+adebolashopeju    1012   0.0  0.0 435340032   7600   ??  S     9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+_assetcache       1045   0.0  0.1 435342368  10128   ??  Ss    9:14a.m.   0:00.14 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+adebolashopeju    1044   0.0  0.2 435348352  29088   ??  S     9:14a.m.   0:00.86 /System/Library/Frameworks/Contacts.framework/Support/postersyncd
+adebolashopeju    1042   0.0  0.0 435305552   7744   ??  S     9:14a.m.   0:00.40 /usr/libexec/gamecontrolleragentd
+adebolashopeju    1040   0.0  0.1 435345168  11104   ??  S     9:14a.m.   0:00.15 /usr/libexec/keyboardservicesd
+adebolashopeju    1039   0.0  0.0 435301040   2640   ??  Ss    9:14a.m.   0:00.02 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+adebolashopeju    1038   0.0  0.0 435304880   4688   ??  S     9:14a.m.   0:00.66 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+adebolashopeju    1037   0.0  0.0 435339936   5632   ??  S     9:14a.m.   0:00.07 /usr/libexec/naturallanguaged
+adebolashopeju    1036   0.0  1.2 435759424 201760   ??  S     9:14a.m.   0:12.93 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+adebolashopeju    1035   0.0  3.6 537328944 597728   ??  S     9:14a.m.   4:06.21 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+adebolashopeju    1034   0.0  0.1 435341216  10368   ??  S     9:14a.m.   0:00.09 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+adebolashopeju    1033   0.0  0.1 435352752  13200   ??  Ss    9:14a.m.   0:00.10 /System/Applications/Weather.app/Contents/PlugIns/WeatherIntents.appex/Contents/MacOS/WeatherIntents -AppleLanguages ("en-GB")
+adebolashopeju    1031   0.0  0.1 435345664  13984   ??  S     9:14a.m.   0:00.33 /System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+_accessoryupdater  1029   0.0  0.0 435304704   4400   ??  Ss    9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceHID.xpc/Contents/MacOS/UARPUpdaterServiceHID
+_accessoryupdater  1030   0.0  0.0 435309248   4128   ??  Ss    9:14a.m.   0:00.06 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceAFU.xpc/Contents/MacOS/UARPUpdaterServiceAFU
+_accessoryupdater  1027   0.0  0.0 435339360   5472   ??  Ss    9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+_accessoryupdater  1028   0.0  0.0 435345312   5920   ??  Ss    9:14a.m.   0:00.09 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+_accessoryupdater  1026   0.0  0.0 435347248   5680   ??  Ss    9:14a.m.   0:00.09 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDisplay.xpc/Contents/MacOS/UARPUpdaterServiceDisplay
+_fpsd             1025   0.0  0.1 435317248  13536   ??  Ss    9:14a.m.   0:00.16 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+root              1024   0.0  0.0 435310448   2912   ??  Ss    9:14a.m.   0:00.06 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd  1023   0.0  0.0 435305632   2480   ??  S     9:14a.m.   0:00.32 /usr/sbin/distnoted agent
+root              1022   0.0  0.0 435339632   4368   ??  Ss    9:14a.m.   0:00.03 /System/Library/PrivateFrameworks/MobileInstallation.framework/XPCServices/com.apple.MobileInstallationHelperService.xpc/Contents/MacOS/com.apple.MobileInstallationHelperService
+adebolashopeju    1020   0.0  0.0 435309968   2784   ??  Ss    9:14a.m.   0:00.07 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AUCrashHandlerService.xpc/Contents/MacOS/AUCrashHandlerService
+adebolashopeju    1021   0.0  0.0 435370464   7984   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1019   0.0  0.2 435423920  31104   ??  Ss    9:14a.m.   0:00.11 /System/iOSSupport/System/Library/ExtensionKit/Extensions/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("en-GB")
+adebolashopeju    1017   0.0  0.1 435417984  13344   ??  Ss    9:14a.m.   0:00.07 /System/iOSSupport/System/Library/ExtensionKit/Extensions/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("en-GB")
+adebolashopeju    1018   0.0  0.1 435370448   8944   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1016   0.0  0.2 435423520  31440   ??  Ss    9:14a.m.   0:00.11 /System/Library/PrivateFrameworks/MacinTalk.framework/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("en-GB")
+adebolashopeju    1011   0.0  0.1 435345600  11888   ??  S     9:14a.m.   0:00.21 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+adebolashopeju    1014   0.0  0.2 435423632  31456   ??  Ss    9:14a.m.   0:00.19 /System/iOSSupport/System/Library/ExtensionKit/Extensions/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("en-GB")
+adebolashopeju    1013   0.0  0.1 435423376  20192   ??  Ss    9:14a.m.   0:00.09 /System/Library/PrivateFrameworks/MacinTalk.framework/PlugIns/WardaSynthesizer.appex/Contents/MacOS/WardaSynthesizer -AppleLanguages ("en-GB")
+adebolashopeju    1006   0.0  0.1 435349744  10032   ??  Ss    9:14a.m.   0:01.02 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+_installcoordinationd  1008   0.0  0.0 435305328   5520   ??  Ss    9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+root              1009   0.0  0.1 435350864  14160   ??  Ss    9:14a.m.   0:00.24 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+adebolashopeju    1007   0.0  0.1 435370448   8432   ??  Ss    9:14a.m.   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1005   0.0  0.1 435370528   8512   ??  Ss    9:14a.m.   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju    1003   0.0  0.1 439700240  13424   ??  Ss    9:14a.m.   0:00.27 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+adebolashopeju    1002   0.0  0.2 439928272  27504   ??  Ss    9:14a.m.   0:00.81 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+_gamecontrollerd  1001   0.0  0.0 435305088   2416   ??  S     9:14a.m.   0:00.32 /usr/sbin/distnoted agent
+root              1000   0.0  0.0 435374848   8096   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju     999   0.0  0.0 435305696   4608   ??  S     9:14a.m.   0:00.08 /usr/libexec/metrickitd
+adebolashopeju     984   0.0  0.0 435345520   7504   ??  Ss    9:14a.m.   0:00.12 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+_fpsd              998   0.0  0.0 435339568   8320   ??  Ss    9:14a.m.   0:02.70 /usr/libexec/fairplaydeviceidentityd
+adebolashopeju     986   0.0  0.0 435301744   3168   ??  S     9:14a.m.   0:00.03 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+adebolashopeju     997   0.0  0.1 435348768  18000   ??  S     9:14a.m.   0:00.51 /usr/libexec/promotedcontentd
+root               992   0.0  0.1 435346752  11600   ??  Ss    9:14a.m.   0:10.97 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root               991   0.0  0.0 435305024   4608   ??  Ss    9:14a.m.   0:00.06 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+adebolashopeju     990   0.0  0.0 435300992   3200   ??  S     9:14a.m.   0:00.02 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+adebolashopeju     989   0.0  0.2 435381328  34448   ??  S     9:14a.m.   0:01.48 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+_accessoryupdater   985   0.0  0.0 435304688   2944   ??  Ss    9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/UARPAssetManager.framework/XPCServices/UARPAssetManagerServiceMobileAsset.xpc/Contents/MacOS/UARPAssetManagerServiceMobileAsset
+adebolashopeju     787   0.0  0.1 435341968  11328   ??  S     9:14a.m.   0:00.34 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+adebolashopeju     779   0.0  0.2 435361680  26384   ??  S     9:14a.m.   0:04.38 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+root               983   0.0  0.1 435345584  24800   ??  Ss    9:14a.m.   0:00.50 /usr/sbin/BTLEServer
+adebolashopeju     982   0.0  0.0 435340080   8048   ??  S     9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+adebolashopeju     791   0.0  0.0 435339632   6208   ??  S     9:14a.m.   0:00.06 /usr/libexec/mobilerepaird
+_applepay          620   0.0  0.0 435305664   6736   ??  Ss    9:14a.m.   0:00.16 /usr/libexec/seld
+_accessoryupdater   981   0.0  0.0 435305264   2384   ??  S     9:14a.m.   0:00.33 /usr/sbin/distnoted agent
+adebolashopeju     979   0.0  0.0 435339696   7008   ??  S     9:14a.m.   0:00.13 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+adebolashopeju     978   0.0  0.0 435306080   5856   ??  S     9:14a.m.   0:00.07 /usr/libexec/assessmentagent
+root               976   0.0  0.0 435305696   2816   ??  Ss    9:14a.m.   0:00.27 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+adebolashopeju     974   0.0  0.1 435342560  10256   ??  S     9:14a.m.   0:00.26 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+adebolashopeju     967   0.0  0.1 435305536  10400   ??  S     9:14a.m.   0:00.09 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+adebolashopeju     965   0.0  0.1 435357968  17152   ??  S     9:14a.m.   0:00.29 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+adebolashopeju     964   0.0  0.0 435305760   8128   ??  S     9:14a.m.   0:00.12 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+adebolashopeju     962   0.0  0.0 435306288   6160   ??  S     9:14a.m.   0:00.17 /usr/sbin/BTLEServerAgent
+adebolashopeju     963   0.0  0.1 435340752  13008   ??  S     9:14a.m.   0:04.81 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/ModelCatalogAgent
+adebolashopeju     957   0.0  0.2 435433280  25776   ??  Ss    9:14a.m.   0:00.38 /System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents -AppleLanguages ("en-GB")
+adebolashopeju     954   0.0  0.1 435356432  18368   ??  Ss    9:14a.m.   0:00.09 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetPeople.appex/Contents/MacOS/FindMyWidgetPeople -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5maW5kbXkuRmluZE15V2lkZ2V0UGVvcGxlIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+adebolashopeju     953   0.0  0.1 435354464  17216   ??  Ss    9:14a.m.   0:00.07 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5CYXR0ZXJpZXMuQmF0dGVyaWVzQXZvY2Fkb1dpZGdldEV4dGVuc2lvbiIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju     951   0.0  0.1 435354896  17664   ??  Ss    9:14a.m.   0:00.08 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetItems.appex/Contents/MacOS/FindMyWidgetItems -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5maW5kbXkuRmluZE15V2lkZ2V0SXRlbXMiLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju     952   0.0  0.1 435340880   8848   ??  Ss    9:14a.m.   0:00.12 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+adebolashopeju     950   0.0  0.2 435434640  30656   ??  Ss    9:14a.m.   0:00.20 /System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag -AppleLanguages ("en-GB") -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5uZXdzLnRhZyIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju     949   0.0  0.1 435347488  15808   ??  S     9:14a.m.   0:00.67 /usr/libexec/milod
+root               948   0.0  0.0 435342768   6560   ??  Ss    9:14a.m.   0:00.17 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+adebolashopeju     947   0.0  0.2 435357360  26880   ??  Ss    9:14a.m.   0:00.14 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Ib21lLkhvbWVFbmVyZ3lXaWRnZXRzIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+adebolashopeju     946   0.0  0.2 435359280  29952   ??  Ss    9:14a.m.   0:00.15 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5zdG9ja3Mud2lkZ2V0IiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+adebolashopeju     945   0.0  0.1 435357632  18288   ??  Ss    9:14a.m.   0:00.07 /System/Applications/Journal.app/Contents/PlugIns/JournalWidgets.appex/Contents/MacOS/JournalWidgets -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5qb3VybmFsLndpZGdldHMiLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju     944   0.0  0.1 435358544  18496   ??  Ss    9:14a.m.   0:00.07 /System/Applications/Journal.app/Contents/PlugIns/JournalWidgetsSecure.appex/Contents/MacOS/JournalWidgetsSecure -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5qb3VybmFsLndpZGdldHMuc2VjdXJlIiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+root               943   0.0  0.0 435341408   7888   ??  Ss    9:14a.m.   0:00.39 /usr/libexec/countryd
+_gamecontrollerd   619   0.0  0.0 435305760   8320   ??  Ss    9:14a.m.   0:00.42 /usr/libexec/gamecontrollerd
+adebolashopeju     942   0.0  0.1 435353968  13488   ??  Ss    9:14a.m.   0:00.06 /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju     941   0.0  0.1 435353504  13648   ??  Ss    9:14a.m.   0:00.06 /System/Applications/VoiceMemos.app/Contents/PlugIns/VoiceMemosSettingsWidgetExtension.appex/Contents/MacOS/VoiceMemosSettingsWidgetExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlZvaWNlTWVtb3NTZXR0aW5nc1dpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju     940   0.0  0.1 435353408   9536   ??  Ss    9:14a.m.   0:00.06 /System/Library/PrivateFrameworks/MobileTimer.framework/PlugIns/MobileTimerIntents.appex/Contents/MacOS/MobileTimerIntents -AppleLanguages ("en-GB")
+adebolashopeju     939   0.0  0.1 435506464  16448   ??  S     9:14a.m.   0:00.35 /System/Cryptexes/App/usr/libexec/SafariBookmarksSyncAgent
+adebolashopeju     938   0.0  0.2 469202160  30400   ??  S     9:14a.m.   0:00.37 /Applications/Postman Agent 2.app/Contents/Frameworks/Postman Agent Helper.app/Contents/MacOS/Postman Agent Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/adebolashopeju/Library/Application Support/PostmanAgent --shared-files --field-trial-handle=1718379636,r,14911958221681392596,6888183083541735622,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=34
+adebolashopeju     937   0.0  0.2 469213920  39968   ??  S     9:14a.m.   0:00.64 /Applications/Postman Agent 2.app/Contents/Frameworks/Postman Agent Helper (GPU).app/Contents/MacOS/Postman Agent Helper (GPU) --type=gpu-process --user-data-dir=/Users/adebolashopeju/Library/Application Support/PostmanAgent --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,14911958221681392596,6888183083541735622,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=34
+adebolashopeju     936   0.0  0.1 435357424  14208   ??  Ss    9:14a.m.   0:00.07 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetIntentsExtension.appex/Contents/MacOS/ScreenTimeWidgetIntentsExtension -AppleLanguages ("en-GB")
+adebolashopeju     935   0.0  0.1 435374896  21328   ??  Ss    9:14a.m.   0:00.12 /System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5wb2RjYXN0cy53aWRnZXQiLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju     930   0.0  0.2 435434624  28640   ??  Ss    9:14a.m.   0:00.23 /System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2 -AppleLanguages ("en-GB") -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5uZXdzLndpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju     934   0.0  0.1 435370736   8864   ??  Ss    9:14a.m.   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju     932   0.0  0.1 435369984   8752   ??  Ss    9:14a.m.   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju     931   0.0  0.1 435340064   9776   ??  Ss    9:14a.m.   0:00.05 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+adebolashopeju     929   0.0  0.1 435356784  20016   ??  Ss    9:14a.m.   0:00.12 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5jbG9jay5Xb3JsZENsb2NrV2lkZ2V0IiwiZW5oYW5jZWRTZWN1cml0eSI6ZmFsc2UsInR5cGUiOjF9
+adebolashopeju     786   0.0  0.1 435340576   8736   ??  S     9:14a.m.   0:00.06 /System/Library/CoreServices/appplaceholdersyncd
+adebolashopeju     927   0.0  0.1 435356800  25152   ??  Ss    9:14a.m.   0:00.18 /System/Applications/Home.app/Contents/PlugIns/HomeWidget.appex/Contents/MacOS/HomeWidget -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Ib21lLkhvbWVXaWRnZXQuSW50ZXJhY3RpdmUiLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju     928   0.0  0.0 435305984   6400   ??  S     9:14a.m.   0:01.66 /usr/libexec/SidecarRelay
+adebolashopeju     926   0.0  0.1 435354368  16944   ??  Ss    9:14a.m.   0:00.09 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5TY3JlZW5UaW1lV2lkZ2V0QXBwbGljYXRpb24uU2NyZWVuVGltZVdpZGdldEV4dGVuc2lvbiIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+adebolashopeju     925   0.0  0.3 435630608  51264   ??  Ss    9:14a.m.   0:03.52 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS53ZWF0aGVyLndpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlLCJ0eXBlIjoxfQ==
+root               924   0.0  0.0 435301776   3760   ??  Ss    9:14a.m.   0:00.02 /System/Library/CoreServices/ReportCrash daemon
+root               921   0.0  0.2 435509296  32960   ??  Ss    9:14a.m.   3:38.89 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+adebolashopeju     920   0.0  0.1 435343104  11376   ??  Ss    9:14a.m.   0:00.44 /System/Library/PrivateFrameworks/TrialServer.framework/Versions/A/XPCServices/TrialArchivingService.xpc/Contents/MacOS/TrialArchivingService
+adebolashopeju     916   0.0  0.0 435301552   4384   ??  S     9:14a.m.   0:00.03 /usr/libexec/spindump_agent
+root               840   0.0  0.0 435313200   3520   ??  Ss    9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+root               915   0.0  0.3 436060176  50784   ??  Ss    9:14a.m.   0:09.02 /usr/sbin/spindump
+adebolashopeju     914   0.0  0.3 435386416  42944   ??  S     9:14a.m.   0:04.16 /usr/libexec/searchpartyuseragent
+adebolashopeju     913   0.0  0.1 435353536  17488   ??  SN    9:14a.m.   0:03.04 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+adebolashopeju     776   0.0  0.1 435342096  17296   ??  S     9:14a.m.   0:06.91 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+adebolashopeju     912   0.0  0.2 435359744  39952   ??  S     9:14a.m.   0:04.07 /usr/libexec/siriknowledged
+adebolashopeju     909   0.0  0.2 435359104  40432   ??  S     9:14a.m.   0:02.34 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+adebolashopeju     907   0.0  0.0 435366736   2848   ??  Ss    9:14a.m.   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+_securityagent     905   0.0  0.0 435305216   2560   ??  S     9:14a.m.   0:00.33 /usr/sbin/distnoted agent
+adebolashopeju     904   0.0  0.1 435341856  13216   ??  S     9:14a.m.   0:00.27 /usr/libexec/bluetoothuserd
+adebolashopeju     901   0.0  0.2 435379104  33216   ??  S     9:14a.m.   0:00.58 /Users/adebolashopeju/Library/Application Support/com.grammarly.ProjectLlama/Grammarly Desktop Update Service.app/Contents/MacOS/Grammarly Desktop Update Service
+adebolashopeju     903   0.0  0.1 435374192   8832   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju     902   0.0  0.1 435342016  18896   ??  S     9:14a.m.   0:01.63 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+adebolashopeju     878   0.0  0.1 435356480  20720   ??  S     9:14a.m.   0:13.27 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+adebolashopeju     877   0.0  0.0 435305168   3968   ??  S     9:14a.m.   0:00.05 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+adebolashopeju     876   0.0  0.1 507362672  24000   ??  Ss    9:14a.m.   0:00.35 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+adebolashopeju     875   0.0  0.1 439699456  12800   ??  Ss    9:14a.m.   0:00.38 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+adebolashopeju     874   0.0  0.1 439727664  14768   ??  Ss    9:14a.m.   0:00.82 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+adebolashopeju     872   0.0  0.1 435341200  10592   ??  S     9:14a.m.   0:00.24 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+root               871   0.0  0.1 435390672  15936   ??  Ss    9:14a.m.   0:00.47 /usr/libexec/aned
+_captiveagent      870   0.0  0.1 435341152   9328   ??  Ss    9:14a.m.   0:00.09 /usr/libexec/captiveagent
+adebolashopeju     852   0.0  0.2 435396832  29792   ??  Ss    9:14a.m.   0:02.38 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension -LaunchArguments eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MSwic2VydmljZU5hbWUiOiJjb20uYXBwbGUuaUNhbC5DYWxlbmRhcldpZGdldEV4dGVuc2lvbiJ9
+adebolashopeju     869   0.0  0.1 439801616  20352   ??  S     9:14a.m.   0:01.64 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+_driverkit         868   0.0  0.0 435239488   3424   ??  Ss    9:14a.m.   0:00.02 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e77 com.apple.IOUserBluetoothSerialDriver
+adebolashopeju     861   0.0  0.1 439700128   9280   ??  Ss    9:14a.m.   0:00.09 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+root               859   0.0  0.0 435313216   2416   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+adebolashopeju     857   0.0  0.1 435343568  10496   ??  S     9:14a.m.   0:00.17 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+adebolashopeju     855   0.0  0.1 435349024  17904   ??  S     9:14a.m.   0:00.43 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+root               856   0.0  0.0 435301088   2240   ??  Ss    9:14a.m.   0:00.86 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+adebolashopeju     854   0.0  0.0 435383760   4992   ??  S     9:14a.m.   0:00.10 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/XPCKeychainSandboxCheck.xpc/Contents/MacOS/XPCKeychainSandboxCheck
+adebolashopeju     853   0.0  0.1 435342192   9072   ??  S     9:14a.m.   0:00.09 /usr/libexec/swtransparencyd
+adebolashopeju     850   0.0  0.1 435344544  17616   ??  S     9:14a.m.   0:00.68 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+adebolashopeju     849   0.0  0.1 435352096  13856   ??  Ss    9:14a.m.   0:00.74 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+adebolashopeju     846   0.0  0.5 440076512  89472   ??  S     9:14a.m.   0:05.50 /Applications/Hotspot Shield.app/Contents/MacOS/Hotspot Shield
+adebolashopeju     842   0.0  0.1 435355392  16384   ??  S     9:14a.m.   0:00.29 /System/Library/PrivateFrameworks/CloudSubscriptionFeatures.framework/FeatureAccessAgent
+adebolashopeju     841   0.0  0.1 435340816  17184   ??  S     9:14a.m.   0:00.32 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+adebolashopeju     838   0.0  0.1 435340944   9488   ??  Ss    9:14a.m.   0:00.20 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+_accessoryupdater   621   0.0  0.0 435307168   5936   ??  Ss    9:14a.m.   0:00.08 /usr/libexec/uarpd
+adebolashopeju     836   0.0  0.0 435375216   3440   ??  Ss    9:14a.m.   0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+_fpsd              837   0.0  0.1 410203376   9376   ??  Ss    9:14a.m.   0:00.57 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+_assetcache        834   0.0  0.0 435342816   7488   ??  Ss    9:14a.m.   0:00.07 /usr/libexec/AssetCache/AssetCache
+adebolashopeju     802   0.0  0.2 435347424  25600   ??  S     9:14a.m.   0:00.73 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+adebolashopeju     832   0.0  0.1 435305488  10176   ??  S     9:14a.m.   0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+adebolashopeju     831   0.0  0.9 440201344 147952   ??  S     9:14a.m.   1:36.21 /Applications/Grammarly Desktop.app/Contents/MacOS/Grammarly Desktop launchSourceLoginItem
+root               830   0.0  0.1 435357696  19360   ??  Ss    9:14a.m.   0:00.34 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+adebolashopeju     826   0.0  0.2 435520336  41584   ??  S     9:14a.m.   0:00.38 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+adebolashopeju     821   0.0  0.1 435341984  10368   ??  S     9:14a.m.   0:00.16 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+adebolashopeju     820   0.0  0.1 435374272   8880   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju     812   0.0  0.0 435306800   4256   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AudioConverterService.xpc/Contents/MacOS/AudioConverterService
+adebolashopeju     817   0.0  0.2 435516464  38896   ??  S     9:14a.m.   0:00.24 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+adebolashopeju     816   0.0  0.1 435374640   8592   ??  Ss    9:14a.m.   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               818   0.0  0.0 435300944   3328   ??  Ss    9:14a.m.   0:00.02 /System/Library/PrivateFrameworks/FindMyMac.framework/Resources/FindMyMacd
+adebolashopeju     815   0.0  0.1 435344976  16912   ??  S     9:14a.m.   0:00.37 cloudphotod
+adebolashopeju     814   0.0  0.1 435370432  11120   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+adebolashopeju     813   0.0  0.0 435306688   4368   ??  Ss    9:14a.m.   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AudioConverterHardenedService.xpc/Contents/MacOS/AudioConverterHardenedService
+adebolashopeju     810   0.0  0.2 435388192  26432   ??  S     9:14a.m.   0:00.46 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+adebolashopeju     801   0.0  0.2 435374544  35168   ??  S     9:14a.m.   0:00.51 /Applications/Grammarly Desktop.app/Contents/Library/LaunchAgents/Grammarly Desktop Helper.app/Contents/MacOS/Grammarly Desktop Helper
+adebolashopeju     809   0.0  0.0 435300352   3856   ??  S     9:14a.m.   0:00.03 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+adebolashopeju     783   0.0  0.1 435363616  20192   ??  S     9:14a.m.   0:00.28 com.anchorfree.hss-mac.startatloginhelper
+adebolashopeju     808   0.0  0.1 435299120  16096   ??  S     9:14a.m.   0:01.02 /usr/libexec/avconferenced
+adebolashopeju     784   0.0  0.0 435340544   6640   ??  S     9:14a.m.   0:00.10 /System/Library/Image Capture/Support/icdd
+adebolashopeju     772   0.0  0.2 435349936  37344   ??  S     9:14a.m.   0:04.79 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+adebolashopeju     773   0.0  0.1 435345968  22000   ??  S     9:14a.m.   0:01.37 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+adebolashopeju     805   0.0  0.1 435342128  13552   ??  S     9:14a.m.   0:00.29 /System/Library/Frameworks/Translation.framework/translationd
+adebolashopeju     804   0.0  0.1 435703488  16400   ??  S     9:14a.m.   0:01.37 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+adebolashopeju     806   0.0  0.1 435341920  10624   ??  Ss    9:14a.m.   0:00.20 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+adebolashopeju     799   0.0  0.3 435563344  49840   ??  S     9:14a.m.   0:00.74 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+adebolashopeju     793   0.0  0.1 435366544  18240   ??  S     9:14a.m.   0:00.20 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+adebolashopeju     771   0.0  0.1 435344464  22592   ??  S     9:14a.m.   0:00.82 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+adebolashopeju     770   0.0  0.1 435417632  11296   ??  Ss    9:14a.m.   0:00.10 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+adebolashopeju     769   0.0  0.9 1647354288 156752   ??  S     9:14a.m.   0:04.36 /Applications/Postman Agent 2.app/Contents/MacOS/Postman Agent
+adebolashopeju     768   0.0  0.3 435393296  51904   ??  S     9:14a.m.   0:01.55 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+adebolashopeju     767   0.0  0.3 435288976  43536   ??  Ss    9:14a.m.   0:02.11 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+adebolashopeju     766   0.0  0.3 435357568  52880   ??  S     9:14a.m.   0:01.05 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+adebolashopeju     765   0.0  0.0 435341440   8128   ??  S     9:14a.m.   0:00.09 /usr/libexec/frauddefensed
+adebolashopeju     764   0.0  0.2 435390816  30432   ??  S     9:14a.m.   0:03.29 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+adebolashopeju     762   0.0  0.0 435305248   7808   ??  S     9:14a.m.   0:00.30 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+adebolashopeju     761   0.0  0.1 435340912  15808   ??  S     9:14a.m.   0:00.76 /usr/libexec/triald
+root               760   0.0  0.0 435304832   5616   ??  Ss    9:14a.m.   0:00.09 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+adebolashopeju     759   0.0  0.1 435340960  10640   ??  S     9:14a.m.   0:00.25 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+adebolashopeju     758   0.0  0.1 435352160  11344   ??  Ss    9:14a.m.   0:00.25 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+adebolashopeju     757   0.0  0.0 435367088   2176   ??  Ss    9:14a.m.   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+adebolashopeju     756   0.0  0.1 435369344  20880   ??  Ss    9:14a.m.   0:00.30 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-GB")
+adebolashopeju     755   0.0  0.1 435369312  19872   ??  Ss    9:14a.m.   0:00.32 /System/Library/Input Methods/EmojiFunctionRowIM.app/Contents/PlugIns/EmojiFunctionRowIM_Extension.appex/Contents/MacOS/EmojiFunctionRowIM_Extension -AppleLanguages ("en-GB")
+adebolashopeju     754   0.0  0.1 435341552   9184   ??  S     9:14a.m.   0:00.18 /System/Library/CoreServices/ScopedBookmarkAgent
+adebolashopeju     753   0.0  0.1 435347008  13728   ??  S     9:14a.m.   0:00.28 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+adebolashopeju     752   0.0  0.2 435352608  25952   ??  S     9:14a.m.   0:04.11 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+adebolashopeju     751   0.0  0.1 435353280  17968   ??  S     9:14a.m.   0:00.27 /usr/libexec/appleaccountd
+adebolashopeju     750   0.0  0.4 435390240  65488   ??  S     9:14a.m.   2:31.49 /usr/libexec/duetexpertd
+adebolashopeju     749   0.0  0.1 435340544  10160   ??  S     9:14a.m.   0:00.10 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+adebolashopeju     747   0.0  0.2 435362944  34352   ??  S     9:14a.m.   0:03.07 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+adebolashopeju     746   0.0  0.1 435388736  22080   ??  S     9:14a.m.   1:54.87 /usr/libexec/spotlightknowledged.updater -u
+adebolashopeju     744   0.0  0.3 435546224  47776   ??  S     9:14a.m.   0:21.14 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+adebolashopeju     745   0.0  0.1 435354032  17872   ??  S     9:14a.m.   0:01.79 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+adebolashopeju     743   0.0  0.1 435344640  18384   ??  S     9:14a.m.   0:00.32 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+adebolashopeju     741   0.0  0.1 435353376  14816   ??  S     9:14a.m.   0:01.43 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+adebolashopeju     742   0.0  0.1 435292176  18832   ??  Ss    9:14a.m.   0:00.19 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+adebolashopeju     740   0.0  0.0 435305632   4432   ??  S     9:14a.m.   0:00.05 /System/Library/CoreServices/APFSUserAgent
+adebolashopeju     736   0.0  0.1 435364112  15872   ??  Ss    9:14a.m.   0:00.27 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider -LaunchArguments eyJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5DbG91ZERvY3MuaUNsb3VkRHJpdmVGaWxlUHJvdmlkZXIiLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwidHlwZSI6MX0=
+adebolashopeju     738   0.0  0.1 435343456  18576   ??  S     9:14a.m.   0:00.65 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+adebolashopeju     739   0.0  0.0 435352096   8000   ??  S     9:14a.m.   0:00.28 /System/Library/CoreServices/pbs
+adebolashopeju     737   0.0  0.9 435883408 148400   ??  S     9:14a.m.   0:09.00 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+adebolashopeju     735   0.0  0.5 435620976  86112   ??  S     9:14a.m.   0:10.04 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+adebolashopeju     734   0.0  0.1 435340736   8496   ??  Ss    9:14a.m.   0:00.04 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+adebolashopeju     733   0.0  0.1 435356976  21072   ??  S     9:14a.m.   0:00.91 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+adebolashopeju     732   0.0  0.1 435448416  23376   ??  S     9:14a.m.   0:00.16 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+adebolashopeju     731   0.0  0.1 435353648  13888   ??  S     9:14a.m.   0:00.37 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+adebolashopeju     730   0.0  0.1 435352880  13952   ??  S     9:14a.m.   0:00.25 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+adebolashopeju     729   0.0  0.1 435351904  13376   ??  S     9:14a.m.   0:00.20 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+adebolashopeju     727   0.0  0.1 435345184  14864   ??  S     9:14a.m.   0:00.59 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+adebolashopeju     725   0.0  0.4 435397696  61696   ??  Ss    9:14a.m.   0:06.28 /System/Library/ExtensionKit/Extensions/WallpaperAerialsExtension.appex/Contents/MacOS/WallpaperAerialsExtension -LaunchArguments eyJ0eXBlIjoxLCJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uYXBwbGUud2FsbHBhcGVyLmV4dGVuc2lvbi5hZXJpYWxzIn0=
+root               723   0.0  0.1 435343232  11056   ??  Ss    9:14a.m.   0:01.22 /usr/libexec/kernelmanager_helper
+_ctkd              721   0.0  0.0 435305920   3984   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+adebolashopeju     722   0.0  0.1 435341344  11456   ??  S     9:14a.m.   0:00.34 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+adebolashopeju     719   0.0  0.0 435305936   5776   ??  S     9:14a.m.   0:00.07 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+adebolashopeju     720   0.0  0.1 435341744  11840   ??  S     9:14a.m.   0:00.11 /System/Library/PrivateFrameworks/SessionCore.framework/Support/liveactivitiesd
+_nearbyd           718   0.0  0.1 435355328  15136   ??  Ss    9:14a.m.   0:03.53 /usr/libexec/nearbyd
+adebolashopeju     717   0.0  0.1 435348960  17776   ??  S     9:14a.m.   0:00.87 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+adebolashopeju     714   0.0  0.1 435357840  18320   ??  S     9:14a.m.   0:01.68 /usr/libexec/nsurlsessiond
+adebolashopeju     715   0.0  0.2 435355648  26400   ??  S     9:14a.m.   0:00.83 /usr/libexec/transparencyd
+adebolashopeju     716   0.0  0.1 435340880  10304   ??  S     9:14a.m.   0:00.45 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+adebolashopeju     710   0.0  0.1 435358240  18560   ??  S     9:14a.m.   0:00.41 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+root               712   0.0  0.0 435306608   3936   ??  Ss    9:14a.m.   0:00.02 /Library/Apple/System/Library/PrivateFrameworks/DeviceInterface.framework/Support/deviceinterfaced
+adebolashopeju     711   0.0  0.1 435344336  19280   ??  S     9:14a.m.   0:01.51 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+adebolashopeju     709   0.0  0.1 435647760  21248   ??  S     9:14a.m.   0:02.18 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+adebolashopeju     708   0.0  0.1 435304688   9408   ??  S     9:14a.m.   0:00.09 /usr/libexec/findmydevice-user-agent
+adebolashopeju     707   0.0  0.1 435351536   9936   ??  S     9:14a.m.   0:00.46 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+adebolashopeju     705   0.0  0.1 435343872  19472   ??  S     9:14a.m.   0:02.57 /usr/libexec/networkserviceproxy
+adebolashopeju     703   0.0  0.0 435340720   6960   ??  S     9:14a.m.   0:01.41 /System/Library/CoreServices/lockoutagent
+adebolashopeju     704   0.0  0.2 435387648  35200   ??  S     9:14a.m.   0:01.24 /usr/sbin/usernoted
+adebolashopeju     706   0.0  0.3 435566656  49440   ??  S     9:14a.m.   0:04.15 /System/Library/CoreServices/ControlStrip.app/Contents/MacOS/ControlStrip
+adebolashopeju     702   0.0  0.6 435438832 103168   ??  S     9:14a.m.   0:12.99 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+adebolashopeju     699   0.0  0.3 435350976  47680   ??  S     9:14a.m.   0:02.23 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+adebolashopeju     701   0.0  0.1 435340304   8560   ??  Ss    9:14a.m.   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+adebolashopeju     696   0.0  1.2 444284192 206096   ??  S     9:14a.m.   0:48.80 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+root               700   0.0  0.1 435353824  10576   ??  Ss    9:14a.m.   0:00.20 /usr/sbin/systemsoundserverd
+root               698   0.0  0.0 435301264   3248   ??  Ss    9:14a.m.   0:00.02 /usr/libexec/wallpaperexportd
+adebolashopeju     690   0.0  0.1 435347696  19360   ??  S     9:14a.m.   0:00.32 /usr/libexec/findmylocateagent
+adebolashopeju     694   0.0  0.2 435375920  29232   ??  Ss    9:14a.m.   0:00.19 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/PlugIns/ACCFinderSync.appex/Contents/MacOS/ACCFinderSync -AppleLanguages ("en-GB")
+adebolashopeju     693   0.0  0.1 435341680  15104   ??  S     9:14a.m.   0:00.70 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+adebolashopeju     692   0.0  0.1 435340096  10352   ??  S     9:14a.m.   0:00.23 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+adebolashopeju     691   0.0  0.1 435347472  14976   ??  S     9:14a.m.   0:00.80 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+adebolashopeju     689   0.0  0.0 435339792   7632   ??  S     9:14a.m.   0:00.04 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+adebolashopeju     688   0.0  0.1 435341424  13664   ??  S     9:14a.m.   0:02.47 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+adebolashopeju     687   0.0  0.1 435363488  14624   ??  S     9:14a.m.   0:00.50 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+adebolashopeju     684   0.0  0.2 435348928  30960   ??  S     9:14a.m.   0:02.49 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+adebolashopeju     686   0.0  0.0 435305584   2240   ??  Ss    9:14a.m.   0:00.01 /System/Library/PrivateFrameworks/login.framework/Versions/A/XPCServices/LoginUserService.xpc/Contents/MacOS/LoginUserService
+adebolashopeju     683   0.0  0.1 435351056  13824   ??  S     9:14a.m.   0:01.03 /usr/libexec/neagent
+adebolashopeju     685   0.0  0.1 435346832  19952   ??  S     9:14a.m.   0:00.41 /System/Library/PrivateFrameworks/CommunicationTrust.framework/Support/communicationtrustd
+adebolashopeju     680   0.0  0.2 435460192  39728   ??  S     9:14a.m.   0:03.56 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+adebolashopeju     682   0.0  0.2 435360416  29600   ??  S     9:14a.m.   0:00.90 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+adebolashopeju     678   0.0  0.1 435358032  21520   ??  S     9:14a.m.   0:01.89 /usr/libexec/replayd
+adebolashopeju     675   0.0  0.1 435344992  12000   ??  S     9:14a.m.   0:00.55 /usr/libexec/intelligentroutingd
+adebolashopeju     679   0.0  0.1 435341536  12560   ??  S     9:14a.m.   0:04.81 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+adebolashopeju     677   0.0  0.1 435344272  10928   ??  S     9:14a.m.   0:00.30 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+adebolashopeju     676   0.0  0.1 435340560  12512   ??  S     9:14a.m.   0:00.35 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+adebolashopeju     673   0.0  0.1 435343952  14496   ??  S     9:14a.m.   0:06.38 /usr/libexec/ContinuityCaptureAgent server
+adebolashopeju     672   0.0  0.3 435616464  47648   ??  S     9:14a.m.   0:07.60 /System/Library/CoreServices/iconservicesagent
+adebolashopeju     669   0.0  0.0 435352512   7744   ??  S     9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+adebolashopeju     671   0.0  0.2 435432688  41248   ??  S     9:14a.m.   0:02.91 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+adebolashopeju     667   0.0  0.3 435393456  43360   ??  S     9:14a.m.   0:17.84 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+adebolashopeju     670   0.0  0.1 435345696  19408   ??  S     9:14a.m.   0:13.29 /usr/libexec/trustd --agent
+adebolashopeju     661   0.0  0.3 435521312  56768   ??  S     9:14a.m.   0:07.85 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+adebolashopeju     666   0.0  0.1 435356992  19792   ??  S     9:14a.m.   0:08.78 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+adebolashopeju     665   0.0  0.1 435341712  19952   ??  S     9:14a.m.   0:00.19 /System/Library/CoreServices/sharedfilelistd
+adebolashopeju     668   0.0  0.1 435352032  17120   ??  S     9:14a.m.   0:02.90 /usr/libexec/pkd
+adebolashopeju     659   0.0  0.2 435515008  41872   ??  S     9:14a.m.   0:00.28 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+adebolashopeju     654   0.0  0.1 435345888  11840   ??  S     9:14a.m.   0:00.29 /usr/libexec/dmd
+adebolashopeju     660   0.0  0.1 435306112   9888   ??  S     9:14a.m.   0:00.13 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+root               664   0.0  0.0 435306992   2752   ??  Ss    9:14a.m.   0:00.02 automountd
+adebolashopeju     663   0.0  0.1 435349728  22816   ??  S     9:14a.m.   0:01.16 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+adebolashopeju     662   0.0  0.1 435352864  14784   ??  S     9:14a.m.   0:03.42 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+adebolashopeju     658   0.0  0.1 435345456   9520   ??  S     9:14a.m.   0:01.13 /usr/libexec/secinitd
+adebolashopeju     653   0.0  0.2 435433248  40880   ??  S     9:14a.m.   1:26.66 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+_appleevents       646   0.0  0.0 435305040   2464   ??  S     9:14a.m.   0:00.32 /usr/sbin/distnoted agent
+adebolashopeju     655   0.0  0.2 435888080  33776   ??  S     9:14a.m.   0:01.79 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+adebolashopeju     652   0.0  0.3 435386320  42304   ??  S     9:14a.m.   0:47.34 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+adebolashopeju     657   0.0  0.2 435395888  33232   ??  S     9:14a.m.   0:01.20 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+adebolashopeju     656   0.0  0.1 435303488  18448   ??  Ss    9:14a.m.   0:00.20 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+root               651   0.0  0.1 435317840  12560   ??  Ss    9:14a.m.   0:01.21 /usr/sbin/filecoordinationd
+adebolashopeju     647   0.0  0.2 435348096  31088   ??  S     9:14a.m.   0:06.91 /System/Library/CoreServices/audioaccessoryd
+adebolashopeju     649   0.0  0.0 435305488   4528   ??  S     9:14a.m.   0:00.21 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+adebolashopeju     650   0.0  0.3 435557936  52160   ??  S     9:14a.m.   0:00.57 /System/Library/CoreServices/AccessibilityUIServer.app/Contents/MacOS/AccessibilityUIServer
+adebolashopeju     648   0.0  0.0 435305392   2080   ??  S     9:14a.m.   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+adebolashopeju     640   0.0  0.1 435340032  10320   ??  S     9:14a.m.   0:00.14 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+adebolashopeju     639   0.0  0.1 435448480  21456   ??  S     9:14a.m.   0:00.36 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+adebolashopeju     642   0.0  0.1 435348752  11936   ??  S     9:14a.m.   0:00.43 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+adebolashopeju     638   0.0  0.3 435519680  43584   ??  S     9:14a.m.   0:00.35 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+adebolashopeju     636   0.0  0.3 435592384  50528   ??  S     9:14a.m.   0:03.94 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+adebolashopeju     635   0.0  0.1 435369680  19872   ??  S     9:14a.m.   0:03.24 /System/Library/CoreServices/talagentd
+adebolashopeju     634   0.0  0.2 435379072  36848   ??  S     9:14a.m.   0:02.40 /usr/libexec/linkd
+adebolashopeju     633   0.0  0.1 435353344  20544   ??  S     9:14a.m.   0:05.52 /usr/libexec/lsd
+adebolashopeju     632   0.0  0.1 435342000  17408   ??  S     9:14a.m.   0:09.48 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+root               631   0.0  0.1 435341312  11760   ??  Ss    9:14a.m.   0:00.12 /usr/libexec/findmydeviced
+adebolashopeju     629   0.0  0.1 435316800  11504   ??  S     9:14a.m.   0:00.28 /usr/libexec/pboard
+adebolashopeju     628   0.0  0.0 435339200   7904   ??  S     9:14a.m.   0:02.13 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+adebolashopeju     630   0.0  0.2 435372752  29104   ??  S     9:14a.m.   0:11.94 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+adebolashopeju     625   0.0  0.2 435354608  34368   ??  S     9:14a.m.   0:01.63 /usr/libexec/knowledge-agent
+adebolashopeju     623   0.0  0.5 435489328  82784   ??  S     9:14a.m.   0:06.83 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+adebolashopeju     618   0.0  0.2 435342880  26032   ??  S     9:14a.m.   0:06.50 /usr/libexec/UserEventAgent (Aqua)
+adebolashopeju     627   0.0  0.1 435367520  19600   ??  S     9:14a.m.   0:00.82 /usr/sbin/universalaccessd launchd -s
+adebolashopeju     626   0.0  0.3 435571936  47680   ??  S     9:14a.m.   0:00.63 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+root               624   0.0  0.2 435420480  40832   ??  Ss    9:14a.m.   0:04.37 /usr/libexec/wifianalyticsd
+root               617   0.0  0.0 435305648   3456   ??  Ss    9:14a.m.   0:00.06 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+adebolashopeju     616   0.0  0.4 435392960  67680   ??  S     9:14a.m.   0:10.63 /usr/libexec/secd
+_spotlight         615   0.0  0.0 435305216   2752   ??  S     9:14a.m.   0:00.34 /usr/sbin/distnoted agent
+_cmiodalassistants   614   0.0  0.0 435339648   4752   ??  S     9:14a.m.   0:00.09 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+adebolashopeju     613   0.0  0.0 435308112   7952   ??  S     9:14a.m.   0:09.08 /usr/sbin/cfprefsd agent
+adebolashopeju     612   0.0  0.0 435305424   5616   ??  S     9:14a.m.   0:03.96 /usr/sbin/distnoted agent
+root               611   0.0  0.0 435304752   2336   ??  Ss    9:14a.m.   0:00.04 /usr/libexec/applekeystored
+root               610   0.0  0.1 435340608  14592   ??  Ss    9:14a.m.   0:00.52 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+_cmiodalassistants   608   0.0  0.1 435342768   8400   ??  S     9:14a.m.   0:00.14 /usr/libexec/trustd --agent
+_cmiodalassistants   606   0.0  0.0 435304896   2960   ??  S     9:14a.m.   0:00.05 /usr/sbin/cfprefsd agent
+root               600   0.0  0.0 435345216   7936   ??  Ss    9:14a.m.   0:00.18 /usr/libexec/symptomsd-diag
+_cmiodalassistants   605   0.0  0.0 435341040   5216   ??  S     9:14a.m.   0:00.06 /usr/libexec/secinitd
+_cmiodalassistants   603   0.0  0.1 435343120  15904   ??  S     9:14a.m.   0:00.49 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               599   0.0  0.1 435342160   9792   ??  Ss    9:14a.m.   0:00.14 /usr/libexec/rtcreportingd
+root               597   0.0  0.0 435375616   5024   ??  Ss    9:14a.m.   0:00.02 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+root               596   0.0  0.1 435354192  17056   ??  Ss    9:14a.m.   0:05.79 /usr/libexec/wifip2pd
+_softwareupdate    594   0.0  0.0 435304960   2336   ??  S     9:14a.m.   0:00.34 /usr/sbin/distnoted agent
+_nsurlsessiond     593   0.0  0.0 435304848   2304   ??  S     9:14a.m.   0:00.34 /usr/sbin/distnoted agent
+root               595   0.0  0.0 435340208   7168   ??  Ss    9:14a.m.   0:00.15 /System/Library/CoreServices/osanalyticshelper server-init
+root               591   0.0  0.1 435342400  10128   ??  S     9:14a.m.   0:00.14 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+_locationd         592   0.0  0.0 435339136   4560   ??  S     9:14a.m.   0:00.07 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_softwareupdate    590   0.0  0.1 435343024  12608   ??  Ss    9:14a.m.   0:00.30 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+_locationd         589   0.0  0.0 435342352   7504   ??  S     9:14a.m.   0:00.14 /usr/libexec/trustd --agent
+_mds_stores        587   0.0  0.6 441194672 104192   ??  Ss    9:14a.m.   0:17.94 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+_locationd         586   0.0  0.0 435305008   2928   ??  S     9:14a.m.   0:00.05 /usr/sbin/cfprefsd agent
+_locationd         585   0.0  0.0 435340816   4672   ??  S     9:14a.m.   0:00.06 /usr/libexec/secinitd
+_locationd         584   0.0  0.0 435305248   2384   ??  S     9:14a.m.   0:00.35 /usr/sbin/distnoted agent
+_locationd         583   0.0  0.1 435343568  17088   ??  S     9:14a.m.   0:00.63 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               582   0.0  0.1 435340240  12368   ??  Ss    9:14a.m.   0:00.74 /usr/libexec/triald_system
+_coreaudiod        581   0.0  0.0 435304736   3568   ??  S     9:14a.m.   0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               580   0.0  0.0 435305024   3824   ??  S     9:14a.m.   0:00.16 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_cmiodalassistants   579   0.0  0.0 435341344   7776   ??  Ss    9:14a.m.   0:00.10 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_cmiodalassistants   578   0.0  0.0 435340240   6768   ??  Ss    9:14a.m.   0:00.06 /usr/libexec/cameracaptured
+root               577   0.0  0.1 436612480  11952   ??  Ss    9:14a.m.   0:00.06 /Library/PrivilegedHelperTools/com.docker.vmnetd
+root               573   0.0  0.1 435341760   9184   ??  Ss    9:14a.m.   0:00.22 /usr/libexec/ospredictiond
+root               574   0.0  0.1 435341632  12880   ??  Ss    9:14a.m.   0:09.80 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+root               572   0.0  0.0 435301392   1760   ??  Ss    9:14a.m.   0:00.02 /usr/libexec/tailspind
+root               571   0.0  0.2 435376992  29808   ??  Ss    9:14a.m.   0:11.80 /usr/libexec/searchpartyd
+_audiomxd          568   0.0  0.0 435305136   2336   ??  S     9:14a.m.   0:00.34 /usr/sbin/distnoted agent
+root               567   0.0  0.1 435341840  14272   ??  Ss    9:14a.m.   0:01.26 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+root               566   0.0  0.1 435306816   9744   ??  Ss    9:14a.m.   0:00.06 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+_cmiodalassistants   565   0.0  0.1 435345168   8400   ??  Ss    9:14a.m.   0:00.56 /usr/sbin/appleh13camerad
+_cmiodalassistants   564   0.0  0.0 435341264   6992   ??  Ss    9:14a.m.   0:00.07 /usr/libexec/com.apple.cmio.videodriverkithostextension.systemextension/Contents/MacOS/com.apple.cmio.videodriverkithostextension
+_coreaudiod        563   0.0  0.0 435371440   8352   ??  Ss    9:14a.m.   0:00.02 Core Audio Driver (ParrotAudioPlugin.driver)
+root               560   0.0  0.1 435341456   9024   ??  Ss    9:14a.m.   0:00.40 /usr/libexec/audioanalyticsd
+root               557   0.0  0.0 435340464   7856   ??  Ss    9:14a.m.   0:00.11 /usr/libexec/mobileactivationd
+root               556   0.0  0.0 435301056   4192   ??  Ss    9:14a.m.   0:00.03 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_driverkit         554   0.0  0.0 435240352   4224   ??  Ss    9:14a.m.   0:00.18 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000ca7 com.apple.AppleUserHIDDrivers
+_driverkit         553   0.0  0.0 435239712   3408   ??  Ss    9:14a.m.   0:00.02 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000c9e com.apple.DriverKit-IOUserDockChannelSerial
+root               551   0.0  0.0 435305168   3680   ??  Ss    9:14a.m.   0:00.05 /usr/libexec/bootinstalld
+root               549   0.0  0.0 435341696   7984   ??  Ss    9:14a.m.   0:00.08 /System/Library/PrivateFrameworks/MobileAssetDaemon.framework/Versions/A/XPCServices/com.apple.MobileAsset.DownloadService.Builtin.xpc/Contents/MacOS/com.apple.MobileAsset.DownloadService.Builtin
+root               548   0.0  0.0 435340768   5376   ??  Ss    9:14a.m.   0:00.09 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+root               547   0.0  0.0 435306640   6000   ??  Ss    9:14a.m.   0:00.53 /usr/sbin/mDNSResponderHelper
+_cmiodalassistants   546   0.0  0.0 435305136   2304   ??  S     9:14a.m.   0:00.35 /usr/sbin/distnoted agent
+root               545   0.0  0.1 435340576  13760   ??  S     9:14a.m.   0:00.35 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+_modelmanagerd     543   0.0  0.1 435366496  17120   ??  Ss    9:14a.m.   0:00.86 /usr/libexec/modelmanagerd
+root               544   0.0  0.0 435306080   5984   ??  Ss    9:14a.m.   0:00.14 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+_coreaudiod        541   0.0  0.0 435339952   4528   ??  Ss    9:14a.m.   0:00.02 /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/Versions/A/XPCServices/AppleDeviceQueryService.xpc/Contents/MacOS/AppleDeviceQueryService
+root               540   0.0  0.0 435340400   6288   ??  Ss    9:14a.m.   0:00.81 /usr/libexec/securityd_system
+_appleevents       538   0.0  0.0 435341328   7344   ??  Ss    9:14a.m.   0:00.21 /System/Library/CoreServices/appleeventsd --server
+root               537   0.0  0.1 435350064  12368   ??  Ss    9:14a.m.   0:01.15 /usr/libexec/storagekitd
+root               535   0.0  0.0 435340048   8192   ??  Ss    9:14a.m.   0:00.78 /usr/libexec/findmybeaconingd
+_coreaudiod        534   0.0  0.0 435369968   7920   ??  Ss    9:14a.m.   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               533   0.0  0.0 435305664   4192   ??  Ss    9:14a.m.   0:00.26 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               531   0.0  0.0 435342096   8368   ??  Ss    9:14a.m.   0:00.87 /System/Library/CoreServices/TimeMachine/backupd
+root               530   0.0  0.1 435342352  16256   ??  Ss    9:14a.m.   0:00.67 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+_audiomxd          526   0.0  0.1 435340912  16192   ??  Ss    9:14a.m.   0:02.90 /usr/libexec/audiomxd
+root               528   0.0  0.1 435342336  11152   ??  Ss    9:14a.m.   0:03.82 /usr/sbin/WirelessRadioManagerd
+root               529   0.0  0.0 435304880   3328   ??  Ss    9:14a.m.   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+_oahd              525   0.0  0.0 435305888   2512   ??  Ss    9:14a.m.   0:00.06 /usr/libexec/rosetta/oahd
+root               524   0.0  0.0 435305120   3568   ??  Ss    9:14a.m.   0:00.18 /usr/libexec/colorsyncd
+_coreaudiod        522   0.0  0.0 435371312   2192   ??  Ss    9:14a.m.   0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_coreaudiod        523   0.0  0.0 33903748   4580   ??  Ss    9:14a.m.   0:03.25 Core Audio Driver (MSTeamsAudioDevice.driver)
+root               520   0.0  0.0 435300832   2496   ??  Ss    9:14a.m.   0:00.02 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+_iconservices      375   0.0  0.0 435340240   5776   ??  Ss    9:14a.m.   0:00.47 /System/Library/CoreServices/iconservicesd
+_accessoryupdater   356   0.0  0.0 435305344   2896   ??  Ss    9:14a.m.   0:00.07 /usr/libexec/uarpassetmanagerd
+root               519   0.0  0.0 435304704   3456   ??  Ss    9:14a.m.   0:00.03 /usr/libexec/colorsync.displayservices
+root               516   0.0  0.3 435376528  46512   ??  Ss    9:14a.m.   1:27.90 /usr/libexec/syspolicyd
+root               515   0.0  0.1 435353408  10832   ??  Ss    9:14a.m.   0:00.36 /usr/libexec/ApplicationFirewall/socketfilterfw
+_analyticsd        431   0.0  0.1 435350512  17696   ??  Ss    9:14a.m.   0:01.76 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+root               504   0.0  0.0 435302304   3248   ??  Ss    9:14a.m.   0:00.03 /usr/libexec/cryptexd
+_softwareupdate    367   0.0  0.0 435343072   7472   ??  Ss    9:14a.m.   0:00.14 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+_accessoryupdater   355   0.0  0.1 435343200  13616   ??  Ss    9:14a.m.   0:00.95 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+root               498   0.0  0.0 435367008   2240   ??  Ss    9:14a.m.   0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root               470   0.0  0.0 435305536   2640   ??  S     9:14a.m.   0:00.39 /usr/sbin/distnoted agent
+_coreaudiod        457   0.0  0.0 435305440   2352   ??  S     9:14a.m.   0:00.37 /usr/sbin/distnoted agent
+_windowserver      453   0.0  0.0 435305104   2384   ??  S     9:14a.m.   0:00.38 /usr/sbin/distnoted agent
+root               469   0.0  0.1 435342128  15904   ??  Ss    9:14a.m.   0:00.84 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_networkd          458   0.0  0.1 435358928  20560   ??  Ss    9:14a.m.   0:06.45 /usr/libexec/symptomsd
+root               452   0.0  0.0 435341184   5648   ??  Ss    9:14a.m.   0:00.08 /usr/libexec/secinitd
+_hidd              446   0.0  0.0 435305088   3840   ??  Ss    9:14a.m.   0:00.09 /usr/libexec/hidd
+root               445   0.0  0.1 435344944  11184   ??  Ss    9:14a.m.   0:02.27 /usr/libexec/eligibilityd
+root               444   0.0  0.1 435341744  11120   ??  Ss    9:14a.m.   0:00.38 /usr/libexec/biometrickitd --launchd
+_nsurlsessiond     440   0.0  0.1 435343232  12144   ??  Ss    9:14a.m.   0:00.34 /usr/libexec/nsurlsessiond --privileged
+_biome             438   0.0  0.1 435340464  11664   ??  Ss    9:14a.m.   0:00.98 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root               439   0.0  0.1 435352336  13248   ??  Ss    9:14a.m.   0:03.73 /usr/libexec/nehelper
+root               443   0.0  0.1 435345824  10560   ??  Ss    9:14a.m.   0:00.15 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+root               442   0.0  0.0 435305152   3664   ??  Ss    9:14a.m.   0:00.09 /usr/libexec/apfsd
+root               437   0.0  0.2 435391072  28256   ??  Ss    9:14a.m.   0:33.47 /usr/libexec/mobileassetd
+root               436   0.0  0.0 435344048   6448   ??  Ss    9:14a.m.   0:00.96 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+_mdnsresponder     435   0.0  0.1 435376448  21360   ??  Ss    9:14a.m.   0:06.92 /usr/sbin/mDNSResponder
+_locationd         393   0.0  0.2 435368272  32144   ??  Ss    9:14a.m.   0:36.93 /usr/libexec/locationd
+root               434   0.0  0.1 435352528  21184   ??  Ss    9:14a.m.   0:05.61 /usr/libexec/lsd runAsRoot
+root               433   0.0  0.0 435341008   3952   ??  Ss    9:14a.m.   0:00.05 /usr/libexec/trustdFileHelper
+root               430   0.0  0.0 435343440   6096   ??  Ss    9:14a.m.   0:00.09 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+_coreaudiod        429   0.0  0.4 435382896  64880   ??  Ss    9:14a.m.   0:20.94 /usr/sbin/coreaudiod
+root               428   0.0  0.1 435340192  10160   ??  Ss    9:14a.m.   0:00.17 /usr/libexec/PowerUIAgent
+_trustd            426   0.0  0.1 435343952  16880   ??  Ss    9:14a.m.   0:16.89 /usr/libexec/trustd
+root               424   0.0  0.1 435363728  12432   ??  Ss    9:14a.m.   0:00.15 /usr/libexec/fskitd
+root               422   0.0  0.0 435340752   7360   ??  Ss    9:14a.m.   0:00.15 /usr/libexec/powerexperienced
+root               423   0.0  0.1 435329504   9648   ??  Ss    9:14a.m.   0:00.32 /System/Library/CoreServices/coreservicesd
+adebolashopeju     421   0.0  0.8 435642048 129872   ??  Ss    9:14a.m.   0:16.12 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+_corespeechd       368   0.0  0.0 435335104   2496   ??  Ss    9:14a.m.   0:00.03 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd_system
+_timed             389   0.0  0.0 435340384   7680   ??  Ss    9:14a.m.   0:00.45 /usr/libexec/timed
+_usbmuxd           390   0.0  0.0 435351248   5248   ??  Ss    9:14a.m.   0:00.16 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_distnote          400   0.0  0.0 435305776   4160   ??  Ss    9:14a.m.   0:02.23 /usr/sbin/distnoted daemon
+root               420   0.0  0.0 435305920   7456   ??  Ss    9:14a.m.   0:07.87 /usr/sbin/cfprefsd daemon
+root               419   0.0  0.1 435357760  17184   ??  Ss    9:14a.m.   0:05.60 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               417   0.0  0.0 435304912   2320   ??  Ss    9:14a.m.   0:00.19 /usr/libexec/logd_helper
+root               360   0.0  0.0 435305072   4192   ??  Ss    9:14a.m.   0:00.03 /usr/libexec/IOMFB_bics_daemon
+root               350   0.0  0.1 435349952  14832   ??  Ss    9:14a.m.   0:04.30 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               402   0.0  0.2 435359344  30192   ??  Ss    9:14a.m.   0:30.88 /usr/libexec/PerfPowerServices
+root               353   0.0  0.1 435354960  17072   ??  Ss    9:14a.m.   0:01.20 /usr/sbin/systemstats --daemon
+root               384   0.0  0.1 435348848  15680   ??  Ss    9:14a.m.   0:03.22 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               394   0.0  0.1 435342224  10992   ??  Ss    9:14a.m.   0:01.20 /usr/libexec/nesessionmanager
+root               408   0.0  0.0 435305152   5264   ??  Ss    9:14a.m.   0:00.22 /usr/libexec/usermanagerd -t 15
+root               415   0.0  0.2 435340560  26480   ??  Ss    9:14a.m.   0:02.18 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               407   0.0  0.0 435301696   3248   ??  Ss    9:14a.m.   0:00.03 /usr/libexec/peakpowermanagerd
+root               405   0.0  0.0 435340800   6016   ??  Ss    9:14a.m.   0:00.14 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               388   0.0  0.1 435342688  11216   ??  Ss    9:14a.m.   0:12.23 /System/Library/CoreServices/launchservicesd
+root               380   0.0  0.2 435366416  29664   ??  Ss    9:14a.m.   0:05.07 /usr/libexec/coreduetd
+root               358   0.0  0.0 435339696   3232   ??  Ss    9:14a.m.   0:00.03 endpointsecurityd
+root               346   0.0  0.0 435305216   4800   ??  Ss    9:14a.m.   0:00.16 /usr/libexec/smd
+root               416   0.0  0.0 435305232   1152   ??  Ss    9:14a.m.   0:00.03 aslmanager
+root               381   0.0  0.0 435305952   2592   ??  Ss    9:14a.m.   0:00.92 /usr/sbin/syslogd
+root               364   0.0  0.0 435340784   5104   ??  Ss    9:14a.m.   0:00.06 /usr/libexec/remoted
+root               398   0.0  0.0 435340816   5664   ??  Ss    9:14a.m.   0:00.07 /usr/libexec/corerepaird
+root               386   0.0  0.1 435345216  22720   ??  Ss    9:14a.m.   0:13.31 /usr/libexec/opendirectoryd
+root               397   0.0  0.2 435347840  25952   ??  Ss    9:14a.m.   0:27.19 /usr/libexec/dasd
+root               396   0.0  0.0 435300992   2496   ??  Ss    9:14a.m.   0:00.02 autofsd
+root               374   0.0  0.3 435399632  43456   ??  Ss    9:14a.m.   0:24.74 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds
+root               387   0.0  0.2 435453792  29568   ??  Ss    9:14a.m.   0:07.18 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               362   0.0  0.1 435370208  10960   ??  Ss    9:14a.m.   0:01.06 /usr/libexec/amfid
+root               385   0.0  0.1 435370000   8880   ??  Ss    9:14a.m.   0:00.11 /usr/libexec/xprotectd
+root               383   0.0  0.0 435341008   5456   ??  Ss    9:14a.m.   0:04.70 /usr/libexec/thermalmonitord
+root               403   0.0  0.0 435300992   1136   ??  Ss    9:14a.m.   0:00.11 /usr/libexec/dirhelper
+root               370   0.0  0.0 435305712   3744   ??  Ss    9:14a.m.   0:00.32 /usr/libexec/watchdogd
+root               357   0.0  0.1 435346816  13520   ??  Ss    9:14a.m.   0:05.63 /usr/libexec/configd
+root               376   0.0  0.1 435344544   8512   ??  Ss    9:14a.m.   0:01.15 /usr/libexec/kernelmanagerd
+root               391   0.0  0.1 435342320  10128   ??  Ss    9:14a.m.   0:01.59 /usr/sbin/securityd -i
+root               404   0.0  0.0 435304624   5216   ??  Ss    9:14a.m.   0:00.09 /System/Library/CoreServices/logind
+root               401   0.0  0.0 435340336   4352   ??  Ss    9:14a.m.   0:00.07 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root               412   0.0  0.0 435341088   5488   ??  Ss    9:14a.m.   0:00.09 /usr/libexec/sandboxd
+root               411   0.0  0.0 435305616   4464   ??  Ss    9:14a.m.   0:06.61 /usr/sbin/notifyd
+root               413   0.0  0.1 435342176  16112   ??  Ss    9:14a.m.   0:32.64 /usr/libexec/corebrightnessd --launchd
+root               406   0.0  0.0 435301504   1728   ??  Ss    9:14a.m.   0:00.01 /usr/sbin/KernelEventAgent
+root               366   0.0  0.0 435305312   4064   ??  Ss    9:14a.m.   0:00.02 /usr/libexec/keybagd -t 15
+root               359   0.0  0.1 435342096  12448   ??  Ss    9:14a.m.   0:06.14 /System/Library/CoreServices/powerd.bundle/powerd
+root               414   0.0  0.0 435307056   8352   ??  Ss    9:14a.m.   0:00.34 /usr/libexec/AirPlayXPCHelper
+root               349   0.0  0.1 435312032  10352   ??  Ss    9:14a.m.   1:37.37 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               347   0.0  0.1 435350768  21632   ??  Ss    9:14a.m.   0:02.05 /usr/libexec/UserEventAgent (System)
+root             10013   0.0  0.0 435299840   1744 s000  R+   12:28p.m.   0:00.01 ps aux
+root                 1   0.0  0.1 435245424  22192   ??  Ss    9:13a.m.   0:54.28 /sbin/launchd
+adebolashopeju   10011   0.0  0.1 435340800  15392   ??  S    12:27p.m.   0:00.18 /usr/libexec/biomesyncd
+adebolashopeju   10010   0.0  0.2 507363136  28960   ??  Ss   12:27p.m.   0:00.08 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+adebolashopeju   10008   0.0  0.6 1949249568 101200   ??  S    12:26p.m.   0:00.09 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=141 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=6609370075 --shared-files --metrics-shmem-handle=1752395122,r,6592601413709926212,2935385679988681306,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709118434772203 --seatbelt-client=48
+adebolashopeju   10004   0.0  0.2 435359504  25968   ??  S    12:23p.m.   0:00.22 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+adebolashopeju    9916   0.0  0.0 435305344   4144   ??  S    11:53a.m.   0:00.04 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+root              9915   0.0  0.0 435304656   4144   ??  Ss   11:53a.m.   0:00.04 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+adebolashopeju    9873   0.0  0.2 435362688  36960   ??  S    11:37a.m.   0:00.77 /usr/libexec/remindd
+_netbios          9781   0.0  0.1 435306096   9008   ??  SNs  10:29a.m.   0:00.23 /usr/sbin/netbiosd
+root              9731   0.0  0.0 435375488   4480   ??  Ss   10:16a.m.   0:00.03 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+root              9687   0.0  0.1 435340208   8672   ??  Ss   10:13a.m.   0:00.06 /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/XPCServices/CoreSpeechXPC.xpc/Contents/MacOS/CoreSpeechXPC
+root              9685   0.0  0.0 435304864   7488   ??  Ss   10:13a.m.   0:00.06 /usr/libexec/betaenrollmentd
+adebolashopeju    9684   0.0  0.1 435352400  12048   ??  S    10:13a.m.   0:00.08 /usr/libexec/betaenrollmentagent
+adebolashopeju    9666   0.0  1.1 1949300736 187392   ??  S    10:09a.m.   0:00.73 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=86 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=3172822528 --shared-files --metrics-shmem-handle=1752395122,r,15898091189770852159,6787646996546481397,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709066897470508 --seatbelt-client=50
+adebolashopeju    9664   0.0  2.5 1951295664 425920   ??  S    10:09a.m.   0:13.40 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=85 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=3169900866 --shared-files --metrics-shmem-handle=1752395122,r,8649640093646594143,811521429108145338,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709065960428659 --seatbelt-client=59
+adebolashopeju    9648   0.0  0.3 435595216  46576   ??  Ss   10:05a.m.   0:00.55 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+adebolashopeju    9638   0.0  0.0 435300880   3456   ??  S    10:02a.m.   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+adebolashopeju    9637   0.0  0.0 435366464   2640   ??  Ss   10:02a.m.   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+adebolashopeju    9636   0.0  0.1 435352192   9552   ??  Ss   10:02a.m.   0:00.06 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+adebolashopeju    9628   0.0  1.0 1949506144 168400   ??  S    10:01a.m.   0:01.44 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/149.0.7827.156/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=0b2d3a94-9c89-41b7-af9f-33408f1f03cc --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=73 --time-ticks-at-unix-epoch=-1782288826902668 --launch-time-ticks=2715369691 --shared-files --metrics-shmem-handle=1752395122,r,18396935936817188191,1465543941024797294,2097152 --field-trial-handle=1718379636,r,2620420255209659027,4803213527738441912,262144 --variations-seed-version=20260623-090054.174000-production --pseudonymization-salt-handle=1935764596,r,17180473046647046278,12964806653595900142,4 --trace-process-track-uuid=3190709054715926471 --seatbelt-client=50
